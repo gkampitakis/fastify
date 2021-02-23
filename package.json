@@ -163,7 +163,7 @@
     "then-sleep": "^1.0.1",
     "tsd": "^0.13.1",
     "typescript": "^4.0.2",
-    "undici": "^2.0.0",
+    "undici": "^3.3.3",
     "x-xss-protection": "^2.0.0",
     "yup": "^0.29.0"
   },
